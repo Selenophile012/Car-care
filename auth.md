@@ -24,7 +24,7 @@ The following areas must be checked against the actual application implementatio
 |---|---|
 | User profile | Only the authorized user can access private profile information. |
 | Personal service records | Users can access only records they are authorized to view. |
-| Creating or updating records | The application must validate the user's permissions before changing private data. |
+| Creating or updating records | The application must validate the user's permissions before changing private data. 
 
 Only mark a route or action as protected after verifying its implementation.
 
